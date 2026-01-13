@@ -8,12 +8,12 @@
 </div>
 
 ### About Me 🧬
-* **Interested in:** Distributed Systems and Low-level Embedded Systems 💻
-* **Off the Computer:** Currently in love with training and getting outdoors
+* **Interested in:** Distributed Systems and Low-level Embedded Systems
+* **Outside of Coding:** Currently in love with training and getting outdoors
 
 ### Working On 🚀
 * **Rust-Database:** Finishing up the final touches.
 * **Cardiac AI:** Looking to create an early-warning AI for predicting patient cardiac arrest via real-time vitals.
-* **Learning:** Reading *Designing Data Intensive Applications* 🟥
+* **Reading:** *Designing Data Intensive Applications*
 
 
