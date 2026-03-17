@@ -8,12 +8,13 @@
 </div>
 
 ### About Me 🧬
-* **Interested in:** Distributed Systems and Low-level Embedded Systems
-* **Outside of Coding:** Currently in love with training and getting outdoors
+* **Interested in:** Distributed Systems and Backend Archtitecture
+* **Outside of Coding:** Currently in love with training and getting outdoors.
+* **Learning Languages:** Slowly but surely getting through German 😅
 
 ### Working On 🚀
 * **Rust-Database:** Finishing up the final touches.
-* **Cardiac AI:** Looking to create an early-warning AI for predicting patient cardiac arrest via real-time vitals.
+* **Travetto:** Travel website that sends you deals.
 * **Reading:** *Designing Data Intensive Applications*
 
 
