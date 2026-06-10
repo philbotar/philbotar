@@ -13,8 +13,7 @@
 * **Learning Languages:** Slowly but surely getting through German 😅
 
 ### Working On 🚀
-* **Rust-Database:** Finishing up the final touches.
-* **Travetto:** Travel website that sends you deals.
+* **Flow:** Graph-based agentic harness.
 * **Reading:** *Designing Data Intensive Applications*
 
 
